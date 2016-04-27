@@ -9,3 +9,5 @@ function halveIt(x){
 return x / 2;
 }
 doubleIt(tripleIt(halveIt(2)));
+
+console.log("Here is the bonus challenge");
